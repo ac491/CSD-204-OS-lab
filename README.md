@@ -1,3 +1,3 @@
 
 
-LAB for CSD 206 (Operating System)
+LAB for CSD 204 (Operating System)
